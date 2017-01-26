@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 466d549b0eff3fe47b7a97da917e738f
+timeCreated: 1485051117
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MyMedieval
+  fontNames:
+  - MyMedieval
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
